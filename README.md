@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswathysen
 - 👀 I’m interested in ... any development projects
-- 🌱 I’m currently learning ... terraform
+- 🌱 I’m currently learning ... terraform, azure
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
